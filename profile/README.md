@@ -1,5 +1,7 @@
 # About Cadcorp
 
+![](logo.png)
+
 ## Spatial Insight
 
 Cadcorp helps organisations derive meaningful and actionable intelligence from data. We do this with an extensive range of [GIS software](https://www.cadcorp.com/products/), [spatial data](https://www.cadcorp.com/services/spatial-data/) and [consultancy services](https://www.cadcorp.com/services/) designed to better inform decision-making.
